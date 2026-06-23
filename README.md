@@ -1,4 +1,4 @@
-# Odhia | Personal Portfolio
+# Ian Otieno | Personal Portfolio
 
 My personal portfolio website built with React and Vite.
 
